@@ -12,7 +12,7 @@ import os
 import sys
 
 JOKE = (
-    "My AI agent writes the code, reviews its own PR, and merges it - "
+    "My AI agent writes the code, reviews its own PR, and merges it — "
     "I just nod at the diff and stay on call for the outage."
 )
 
